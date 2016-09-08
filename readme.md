@@ -15,3 +15,10 @@ Example02
 
 When trying to import a class parameter that shadows a field 
 in parent class, such import is incorrectly reported as error.
+
+
+Example03
+---
+
+When overloaded function is passed as an argument 
+to another function Idea gets confused. 
